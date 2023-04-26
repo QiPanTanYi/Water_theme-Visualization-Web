@@ -46,7 +46,7 @@
 
 #### <u>1.先行页面</u>
 
-![01]([.\Document\01.jpg](https://github.com/QiPanTanYi/Watet_theme-Visualization-_Web/blob/main/Document/01.jpg))
+![01](https://github.com/QiPanTanYi/Watet_theme-Visualization-_Web/blob/main/Document/01.jpg)
 
 
 
