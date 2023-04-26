@@ -52,25 +52,25 @@
 
 #### <u>2.菜单页面</u>
 
-![02](.\Document\02.jpg)
+![02](Document\02.jpg)
 
 
 
 #### <u>3.省份降水及水资源</u>
 
-![05](.\Document\05.jpg)
+![05](Document\05.jpg)
 
 
 
 #### <u>4.人体含水量</u>
 
-![03](.\Document\03.jpg)
+![03](Document\03.jpg)
 
 
 
 #### <u>5.水污染物</u>
 
-![04](.\Document\04.jpg)
+![04](Document\04.jpg)
 
 
 
